@@ -14,7 +14,19 @@ nav {
     background-color: black;
 }
 
-:visited {
+nav a:link {
+    color: seashell;
+}
+
+nav a:hover {
+    color: lightgrey;
+}
+
+nav a:active {
+    color: seashell;
+}
+
+nav a:visited {
     color: seashell;
 }
 
