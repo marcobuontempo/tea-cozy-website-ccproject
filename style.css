@@ -14,6 +14,10 @@ nav {
     background-color: black;
 }
 
+:visited {
+    color: seashell;
+}
+
 nav img {
     display: inline-block;
     height: 50px;
